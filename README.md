@@ -1,6 +1,5 @@
 - 🇫🇷 French full-stack web developer
+- 🐘 PHP / Laravel developper 
 - 🦀 Rust learner 
-- 🦖 CTO / AD @Degenosaur_Us
 - 🎨 NFT artist
-- 🚀 NFT & DeFi enthousiast !
 
