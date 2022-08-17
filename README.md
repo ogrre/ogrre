@@ -7,7 +7,7 @@
 
 - 🦀 I’m currently learning **Rust**
 
-- ⚓ I am interested in **blockchain** and **smart contract** development
+- ⚓ I'm interested in **blockchain** and **smart contract** development
 
 - 📄 Know about my experiences [jbloup](https://jbloup.fr)
 
