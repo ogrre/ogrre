@@ -3,9 +3,11 @@
 
 - 🐘 Actually a **PHP and Laravel** developper 
 
-- 🎨 A new **NFT** artist
+- 🎨 A new **NFT** artist on **Solana**
 
 - 🦀 I’m currently learning **Rust**
+
+- ⚓ I am interested in **blockchain** and **smart contract** development
 
 - 📄 Know about my experiences [jbloup](https://jbloup.fr)
 
