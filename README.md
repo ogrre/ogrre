@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm JB Loup</h1>
 <h3 align="center">A passionate web developer from France 🇫🇷</h3>
 
-- 🐘 PHP / Laravel developper 
+- 🐘 Actually a **PHP and Laravel** developper 
 
-- 🎨 NFT artist
+- 🎨 A new **NFT** artist
 
 - 🦀 I’m currently learning **Rust**
 
-- 💬 Ask me about **PHP and Laravel**
-
-- 📄 Know about my experiences [jbloup.fr](jbloup.fr)
+- 📄 Know about my experiences [jbloup](jbloup.fr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
