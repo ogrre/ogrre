@@ -3,8 +3,6 @@
 
 - 🐘 Actually a **PHP and Laravel** developper 
 
-- 🎨 A new **NFT** artist on **Solana**
-
 - 🦀 I’m currently learning **Rust**
 
 - ⚓ I'm interested in **blockchain** and **smart contract** development on **Solana**
