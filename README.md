@@ -7,7 +7,7 @@
 
 ⚐ Based in **Lille**
 
-ϟ Currently 🦀 I’m currently learning **Rust**
+ϟ Currently I’m currently learning **Rust** 🦀 
 
 
 
