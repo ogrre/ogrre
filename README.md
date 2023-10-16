@@ -7,7 +7,7 @@
 
 ⚐ Based in **Lille**
 
-ϟ Currently I’m learning **Rust** 🦀 
+ϟ Currently I’m learning **Go** and **Rust** 🦀
 
 → My JSON **Resume** [here](https://registry.jsonresume.org/0grre)
 
