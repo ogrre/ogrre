@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jean-Baptiste Loup
+# Hi 👋, I'm Jean-Baptiste, but you can call me JB !
 ### A passionate web developer from France 🇫🇷
 
 ⤷ Full-stack web developer, I work mainly in **PHP** with **Laravel** framework 🐘
