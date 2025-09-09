@@ -7,7 +7,7 @@
 
 ⚐ Based in **Lille** 🍺
 
-ϟ Currently I’m learning **C#**
+ϟ Currently I’m learning **Go**
 
 → My personnal **website** [here](https://jbloup.com)
 
