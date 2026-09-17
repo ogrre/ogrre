@@ -16,8 +16,8 @@
 
 
  ## Projects
-- 🐟 [betta.black](https://betta.black)
-- 🚘 [ammaclassicauto.com](https://ammaclassicauto.com)
+- 🐟 [Betta.black](https://betta.black)
+- 🚘 [Ammaclassicauto.com](https://ammaclassicauto.com)
 - ✉️ [Lettredemotivation.app](https://lettredemotivation.app)
 - 🎨 [Crealion.art](https://crealion.art)
 - 🦖 [Degenosaur.us](https://degenosaur.us)
